@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33294d72-73c5-43d1-a4d5-c1f8ca7ccf5f": {
+      "ProjectGuid": "33294d72-73c5-43d1-a4d5-c1f8ca7ccf5f",
+      "DisplayName": "TP1_PROGRAMACIONII",
+      "ColorIndex": 0
+    },
+    "5b67f525-54bb-4ace-9d9a-968f3b85f05f": {
+      "ProjectGuid": "5b67f525-54bb-4ace-9d9a-968f3b85f05f",
+      "DisplayName": "TP1 Clases",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
