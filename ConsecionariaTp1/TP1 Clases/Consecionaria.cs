@@ -19,6 +19,7 @@ namespace TP1_Clases
 
         {
             vehiculoList = new List<Vehiculo>();
+            clienteList = new List<Cliente>();
         }
 
         public void AgregarCliente (Cliente cliente)
@@ -26,6 +27,7 @@ namespace TP1_Clases
 
             clienteList.Add(cliente);
         }
+
 
         public double InformarFinanciacion(Vehiculo vehiculo)
         {

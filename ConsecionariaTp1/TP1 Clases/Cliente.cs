@@ -13,17 +13,23 @@ namespace TP1_Clases
         public string Apellido { get; set; }
         public List<Vehiculo> vehiculoList { get; set; }
 
+    
+
         public void AgregarVehiculo(Vehiculo vehiculo)
         {
 
             vehiculoList.Add(vehiculo);
+
+
         }
+
+
 
 
         public string AveriguarFinanciacion(Vehiculo vehiculo)
         {
 
-            return $"Se envio la consulta por {vehiculo.Modelo}";
+            return $"Se envio la consulta por {vehiculo.Patente}";
         }
     }
 }

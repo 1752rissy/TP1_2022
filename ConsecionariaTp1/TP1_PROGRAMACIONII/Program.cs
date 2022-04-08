@@ -14,8 +14,8 @@ namespace TP1_PROGRAMACIONII
 
             Consecionaria consecionaria1 = new Consecionaria();
             consecionaria1.NombreConsecionaria = "SAPAG";
-            
-            
+           
+
 
             Vehiculo vehiculo1 = new Vehiculo();
             vehiculo1.Marca = "FIAT";
@@ -23,12 +23,14 @@ namespace TP1_PROGRAMACIONII
             vehiculo1.Patente = "AD 154 FT";
             vehiculo1.Precio = 4000000;
 
+           
             Cliente cliente1 = new Cliente();
+            
             cliente1.Nombre = "Ramon";
             cliente1.Apellido = "Don";
             cliente1.DNI = 30134840;
             
-                                
+
 
             FCA fca1 = new FCA();
             fca1.EntidadFinanciera = "FinancieraYA";
@@ -38,8 +40,10 @@ namespace TP1_PROGRAMACIONII
             cliente1.AgregarVehiculo(vehiculo1);
             fca1.FinanciarVehiculo(vehiculo1);
             consecionaria1.InformarFinanciacion(vehiculo1);
+            
 
-
+            Console.ReadLine();
+                
         }
     }
 }
