@@ -15,7 +15,7 @@ namespace TP1_Clases
         public FCA entidad { get; set; }
 
 
-        public
+       
         
 
     }          
