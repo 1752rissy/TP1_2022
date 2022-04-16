@@ -11,17 +11,7 @@ namespace TP1_Clases
         public int DNI { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }
-        public List<Vehiculo> vehiculoList { get; set; }
-
-    
-
-        public void AgregarVehiculo(Vehiculo vehiculo)
-        {
-
-            vehiculoList.Add(vehiculo);
-
-
-        }
+        
 
 
 

@@ -12,6 +12,7 @@ namespace TP1_Clases
         public string NombreConsecionaria { get; set; } 
         public List<Vehiculo> vehiculoList { get; set; }
         public List<Cliente> clienteList { get; set; }
+        public FCA fca { get; set; }
 
 
 
@@ -20,6 +21,14 @@ namespace TP1_Clases
         {
             vehiculoList = new List<Vehiculo>();
             clienteList = new List<Cliente>();
+            fca = new FCA();
+        }
+
+
+        public void AgregarVehiculo(Vehiculo vehiculo)
+        {
+
+            vehiculoList.Add(vehiculo);
         }
 
         public void AgregarCliente (Cliente cliente)
@@ -28,10 +37,16 @@ namespace TP1_Clases
             clienteList.Add(cliente);
         }
 
+        public void AsignarFCA(string nombreFCA)
+        {
+
+            fca.EntidadFinanciera = nombreFCA;
+        }
+
 
         public double InformarFinanciacion(Vehiculo vehiculo)
         {
-            return  vehiculo.Precio*0.55;
+            return  (vehiculo.Precio*0.55) + vehiculo.Precio;
 
         }
 

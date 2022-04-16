@@ -20,7 +20,7 @@ namespace TP1_Clases
         public double FinanciarVehiculo(Vehiculo vehiculo)
         {
             vehiculoList.Add(vehiculo);
-            return vehiculo.Precio*0.55;
+            return (vehiculo.Precio*0.55)+vehiculo.Precio;
         }
 
 
