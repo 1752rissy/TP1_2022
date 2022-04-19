@@ -1,0 +1,8 @@
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\bin\Debug\TP1_PROGRAMACIONII.exe.config
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\bin\Debug\TP1_PROGRAMACIONII.exe
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\bin\Debug\TP1_PROGRAMACIONII.pdb
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\obj\Debug\TP1_PROGRAMACIONII.csproj.AssemblyReference.cache
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\obj\Debug\TP1_PROGRAMACIONII.csproj.SuggestedBindingRedirects.cache
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\obj\Debug\TP1_PROGRAMACIONII.csproj.CoreCompileInputs.cache
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\obj\Debug\TP1_PROGRAMACIONII.exe
+E:\Potenciar\Programacion II\TP1_2022\ConsecionariaTp1\TP1_PROGRAMACIONII\obj\Debug\TP1_PROGRAMACIONII.pdb
